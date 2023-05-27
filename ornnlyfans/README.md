@@ -8,7 +8,7 @@ The best Ornn picture, featuring Annie
 
 ## How to run
 
-You need to run the command OrnnlyFans. To do this use `ctrl + shift + p` and type the command. Enjoy!
+You need to run the command OrnnlyFans. To do this use `ctrl` + `shift` + `p` and type the command. Enjoy!
 
 
 
